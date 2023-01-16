@@ -1,4 +1,4 @@
-<h1 align= 'center'>CriPixel
+<h1 align= 'center'>Cripixel
 </h1>
 <h5 align = 'center'>Site de criptografia para Cifra de Cesar e Base64.</h5>
 
